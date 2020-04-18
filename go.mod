@@ -1,3 +1,3 @@
-module github.com/kraymond37/simplehttp
+module github.com/btcchina-org/simplehttp
 
 go 1.14
